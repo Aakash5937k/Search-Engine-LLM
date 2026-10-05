@@ -35,6 +35,7 @@ langchain-classic
 unstructured[pdf]
 numexpr
 huggingface_hub
+ddgs
 
 
 
